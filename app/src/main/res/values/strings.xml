@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">osmNavigation_v1.1</string>
+    <string name="user_location_permission_not_granted">User Location Permission Not granted</string>
+    <string name="mapbox_key">pk.eyJ1IjoiYWRpdGh5YWFqaXRoIiwiYSI6ImNqNXozemNkdjA2MmIycWp4OHg1b3hseTIifQ.nK3J5bLT9tEGG6kaqrjVgA</string>
+    <string name="directions_activity_toast_message">Route is %1$f meters long.</string>
+</resources>
