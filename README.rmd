@@ -8,10 +8,8 @@
 
 - This app uses two SDKs:
 
-    Mapbox Navigation SDK for Android
+    Mapbox Navigation SDK for Android    
+      (https://github.com/mapbox/mapbox-navigation-android)
     
-      https://github.com/mapbox/mapbox-navigation-android
-    
-    Google Places API for Android
-    
-      https://github.com/googlesamples/android-play-places
+    Google Places API for Android    
+      (https://github.com/googlesamples/android-play-places)
