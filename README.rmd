@@ -1,0 +1,13 @@
+# A Navigation App in Androind Platform
+
+> I started developing the app as part of my Advanced Driver Assistance Systems(ADAS) project.
+  Currently its just a driving navigation application using Mapbox Navigation SDK.
+  
+- The app will detect your current location.
+- The destination for the driving has to be either selected on the screen or address has to be inputed.
+
+- This app uses two SDKs:
+    Mapbox Navigation SDK for Android
+      https://github.com/mapbox/mapbox-navigation-android
+    Google Places API for Android
+      https://github.com/googlesamples/android-play-places
