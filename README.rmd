@@ -5,6 +5,7 @@
   
 - The app will detect your current location.
 - The destination for the driving has to be either selected on the screen or the address has to be inputed.
+- The .apk file is available in this repository.
 
 - This app uses two SDKs:
 
