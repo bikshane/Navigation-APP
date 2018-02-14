@@ -7,7 +7,11 @@
 - The destination for the driving has to be either selected on the screen or address has to be inputed.
 
 - This app uses two SDKs:
+
     Mapbox Navigation SDK for Android
+    
       https://github.com/mapbox/mapbox-navigation-android
+    
     Google Places API for Android
+    
       https://github.com/googlesamples/android-play-places
